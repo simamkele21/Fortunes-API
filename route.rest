@@ -1,0 +1,10 @@
+POST   http://localhost:3000/fortunes
+Content-Type: application/json
+
+{
+    "message": "Hello",
+    "lucky_number": "5",
+    "spirit_animal": "sheep"
+}
+
+#####
